@@ -4,8 +4,6 @@
 
 ToDoList App은 일상적인 작업을 관리하기 위한 간단하고 직관적인 애플리케이션입니다. 이 앱을 통해 사용자는 쉽게 할 일 목록을 추가, 삭제 및 관리할 수 있습니다.
 
-![ToDoList App Screenshot](이미지_링크)
-
 ## 주요 기능
 
 - **할 일 추가**: 새로운 할 일을 추가할 수 있습니다.
@@ -21,7 +19,6 @@ ToDoList App은 일상적인 작업을 관리하기 위한 간단하고 직관�
 ## 개발 영상
 <video width="320" height="240" controls>
   <source src="https://youtu.be/xIE-qpMrcik" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 ## Notion Page
