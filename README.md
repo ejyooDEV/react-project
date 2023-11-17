@@ -17,7 +17,7 @@ ToDoList App은 일상적인 작업을 관리하기 위한 간단하고 직관�
 - CSS
 
 ## 개발 영상
-![TodoList]([GIF 파일의 URL](https://github.com/ejyooDEV/react-project/blob/dev/TodoListApp.gif))
+![TodoList](https://github.com/ejyooDEV/react-project/blob/dev/TodoListApp.gif)
 
 ## Notion Page
 자세한 정보는 [이곳](https://quirky-dryer-226.notion.site/To-do-List-App-24672124f386490aa8eef65fa669e340?pvs=4)에서 확인하세요.
