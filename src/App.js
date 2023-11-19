@@ -34,8 +34,8 @@ const App = () => {
     }, []);
 
   const onRemove = useCallback(id => {
-      setTodos(todos.filter(todo => todo.id !== id));
-    },[]);
+      setTodos(todos => todos.filter(todo => todo.id !== id));
+    }, []);
 
   const onToggle = useCallback(id => {
       setTodos(todos =>
